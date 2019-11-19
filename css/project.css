@@ -1,0 +1,54 @@
+.bg-light {
+    background-color: #5d1818c2!important;
+}
+
+.space-img {
+  margin-right: 1rem;
+}
+
+.carousel-item {
+    height: 34rem;
+}
+
+.Logo {
+    margin-top: -1rem;
+    margin-bottom: -1.5rem;
+}
+
+.content {
+    margin-top: 2rem ;
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.rounded-circle {
+    border-radius: 50%!important;
+}
+
+.nav-auto {
+  margin-left: 28rem;
+  margin-right: auto!important;
+}
+
+.about {
+  text-decoration: none;
+  background-color: transparent;
+  margin-right: 5rem;
+}
+
+.row-footer {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    text-align: center;
+    color: #fff;
+}
+
+.menu {
+  text-align: center;
+  margin-top: .9rem;
+  margin-bottom: -1rem;
+  font-style: italic;
+}

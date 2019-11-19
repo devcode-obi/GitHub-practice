@@ -1,0 +1,11 @@
+.bg-secondary{
+    height: 4rem;}
+    
+.row div {
+        border: solid 1px lightgrey;
+        
+    }
+
+    .bg-dark div {
+          border: none;
+    }
